@@ -50,7 +50,7 @@
 =#
 
 import Pkg
-Pkg.add("Distributions","Plots","StatsPlots","Random","LaTeXStrings")
+Pkg.add("Distributions")
 
 #Basta con descargarlos una vez e irlos actualizando
 
@@ -171,5 +171,6 @@ bitstring(a)
 
 ceil(μ)
 floor(μ)
+
 
 ##Con esto concluimos el módulo 0. Espero les haya gustado :D 
